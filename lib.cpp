@@ -20,3 +20,4 @@ int Conversione (char c){
         convertito = c-32;
     } return convertito;
 }
+
